@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Día 2: Navegantes y Cartógrafos Digitales",
+  "description": "Quiz corto, dinámico y muy sencillo para estudiantes universitarios sobre navegadores, buscadores, URL y correo formal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
